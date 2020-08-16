@@ -1,0 +1,1 @@
+cluster_name = "mouracvictor-eks-cluster"
